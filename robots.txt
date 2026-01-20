@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pntumbawantumba.github.io//sitemap.xml
