@@ -2,115 +2,138 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Dr. Patient NTUMBA
+  given: Patient
+  family: NTUMBA WA NTUMBA
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  #pronouns: he/him
 postnominals:
   - PhD
-  - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Postdoctoral researcher
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  
+  I am a postdoctoral researcher specializing in distributed and networked systems with a focus on In-Network and Edge/Fog/Cloud computing, IoT, and systems for distributed AI. 
+  My work addresses the challenges of orchestrating and scheduling AI and microservice applications across geographically distributed infrastructures under constraints of latency, energy, and resource availability. 
+  I combine analytical modeling, optimization, and heuristic algorithms with experimental validation on realistic platforms.
+
+avatar:
+  image: /my_photo.jpeg  # <-- mettre le chemin relatif depuis static/
+  size: medium                # options: small, medium, large
+  shape: circle               # options: circle, square, rounded
+
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: ROC-CERDRIC, CNAM
+    url: https://roc.cnam.fr/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:patient.ntumba@cnam.fr
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+  #- icon: brands/github
+  #  url: https://github.com/example
+  # - icon: brands/linkedin
+  #  url: https://www.linkedin.com/in/example/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=gRrqPt4AAAAJ&hl=en
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Distributed & Networked Systems
+  - In-Network & Edge AI
+  - Scheduling & Optimization
+  - Robust Systems
 
 education:
   - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+    institution: Sorbonne Université
+    start:  2018-09-01
+    end: 2022-08-31
+    # summary: |
+    #  Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: MS Distributed System and Network
+    institution: Université de Franche-Comté
+    start: 2016-09-01
+    end: 2014-09-01
+  - degree: BS Math-Info
+    institution: Université de Kinshasa
+    start: 2012-09-01
+    end: 2008-09-01
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Postdoctoral Researcher
+    org: CNAM, ROC-CEDRIC, Paris, France
+    start: 2023-02-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Designing data-pipeline systems (DPS) for in-network AI and developing strategies for their optimal deployment integrated with federated learning (FL).
 
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      Developing strategies for AI model profiling and  selection to optimize resource usage, energy consumption for Edge AI inference reliability.
+    
+  - role: Visiting Researcher
+    org: UCLouvain, ICTEAM, Louvain-la-neuve, Belgium
+    start: 2025-11-01
+    end: 2026-02-28
+    summary: |
+      Developing strategies for AI model graceful degradation to optimize resource usage and ensure inference reliability while meeting response-time SLOs in distributed edge infrastructures.
+      
+
+    #button:
+    #  text: View portfolio
+    #  url: /
+    #  icon: hero/arrow-down-tray
+  - role: Postdoctoral Researcher
+    org: Inria, MIMOVE, Paris, France
+    start: 2022-10-01
+    end: 2023-01-31
+    summary: |
+      Designed AI-based scheduling for IoT data stream application in the Edge-Fog-Cloud continuum
+  
+  - role: PhD Researcher
+    org: Inria, MIMOVE, Paris, France
+    start: 2022-10-01
+    end: 2023-01-31
+    summary: |
+      Designed scheduling and orchestration frameworks for IoT data streams across Edge-Fog-Cloud infrastructures, optimizing latency, resource usage, and energy while supporting scalable, real-time analytics.
+
+  - role: Research Engineer
+    org: Inria, MIMOVE, Paris, France
+    start: 2017-01-01
+    end: 2018-08-31
+    summary: |
+      Developed middleware for IoT interoperability, including automated synthesis of protocol mediators to connect heterogeneous devices efficiently, enabling scalable and robust distributed IoT systems.
+
+  - role: Computer Engineer
+    org: Afriland First Bank, Kinshasa, D.R.Congo
+    start: 2013-01-01
+    end: 2014-08-31
+    summary: |
+
+
+
 
 languages:
-  - name: English
-    level: 5
+  - name: French
+    level: 
     label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+  - name: English
+    level: 
+    label: Professional
+  - name: Swahili
+    level: 
+    label: Native
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+
+#awards:
+#  - title: Best Paper Award
+#    awarder: NeurIPS
+#    date: "2022-12-01"
+#    summary: Awarded for groundbreaking work on efficient training of large models.
+#    icon: hero/trophy

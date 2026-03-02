@@ -1,12 +1,14 @@
 ---
-title: Publications
+title: "Publications"
 cms_exclude: true
 
-# View.
+# Use the citation view for academic publications
 view: citation
 
-# Optional header image (relative to `static/media/` folder).
+# Optional header image (relative to `static/media/` folder)
 banner:
-  caption: ''
-  image: ''
+  caption: "My selected publications"
+  image: ""
 ---
+
+
