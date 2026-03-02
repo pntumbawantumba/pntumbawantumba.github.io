@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | </title>
+    <link>https://example.com/teaching/</link>
+      <atom:link href="https://example.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Teaching</title>
+      <link>https://example.com/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Algorithmes pour le Cloud Computing</title>
+      <link>https://example.com/teaching/algorithmes-cloud-cnam/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/algorithmes-cloud-cnam/</guid>
+      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
+&lt;p&gt;CNAM&lt;/p&gt;
+&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
+&lt;p&gt;I2 – Cycle ingénieur&lt;/p&gt;
+&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
+&lt;p&gt;7,5h CM · 7,5h TD/TP&lt;/p&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Cours sur les architectures distribuées pour le Cloud et les problématiques fondamentales de cohérence, disponibilité et tolérance aux fautes.&lt;br&gt;
+Conception et mise à jour des supports pédagogiques (CM et TD).&lt;br&gt;
+Les TP utilisent les protocoles &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt;ZeroMQ&lt;/strong&gt; pour :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Illustrer les communications synchrones/asynchrones (anneau unidirectionnel, diffusion)&lt;/li&gt;
+&lt;li&gt;Implémenter des algorithmes d’élection et de gestion de section critique&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction aux réseaux</title>
+      <link>https://example.com/teaching/introduction-reseaux-sorbonne/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/introduction-reseaux-sorbonne/</guid>
+      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
+&lt;p&gt;Sorbonne Université&lt;/p&gt;
+&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
+&lt;p&gt;L3 – Licence 3&lt;/p&gt;
+&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
+&lt;p&gt;56h TD/TP&lt;/p&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Cours sur : Transmission et signaux, CSMA/CD &amp;amp; CSMA/CA, LAN &amp;amp; VLAN, adressage IP &amp;amp; ARP, paquets IP &amp;amp; ICMP, DHCP &amp;amp; NAT, routage RIP &amp;amp; OSPF, UDP &amp;amp; TCP, protocoles Web &amp;amp; DNS.&lt;br&gt;
+Responsable des TD, TP et examens.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programmation Mobile</title>
+      <link>https://example.com/teaching/programmation-mobile-cnam/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/programmation-mobile-cnam/</guid>
+      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
+&lt;p&gt;CNAM&lt;/p&gt;
+&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
+&lt;p&gt;L3/M1&lt;/p&gt;
+&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
+&lt;p&gt;15h CM/TP&lt;/p&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Cours sur le développement Android et les architectures mobiles.&lt;br&gt;
+Les étudiants pratiquent les interactions client–serveur et développent de petites applications mobiles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Routage dans les réseaux</title>
+      <link>https://example.com/teaching/routage-reseaux-sorbonne/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/routage-reseaux-sorbonne/</guid>
+      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
+&lt;p&gt;Sorbonne Université&lt;/p&gt;
+&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
+&lt;p&gt;M1 – Master 1&lt;/p&gt;
+&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
+&lt;p&gt;12h CM · 40h TD/TP&lt;/p&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Cours couvrant LAN, adressage, forwarding, routage intra- et inter-domaine, architectures peer-to-peer, applications de partage de fichiers et mobilité (Mobile IP, MANET, réseaux à contacts).&lt;br&gt;
+Responsable des CM, TD et TP.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
