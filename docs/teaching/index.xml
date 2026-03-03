@@ -15,21 +15,50 @@
     <item>
       <title>Algorithmes pour le Cloud Computing</title>
       <link>https://example.com/teaching/algorithmes-cloud-cnam/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/algorithmes-cloud-cnam/</guid>
-      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
 &lt;p&gt;CNAM&lt;/p&gt;
-&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
+&lt;h2 id=&#34;niveau&#34;&gt;Niveau&lt;/h2&gt;
 &lt;p&gt;I2 – Cycle ingénieur&lt;/p&gt;
-&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
+&lt;h2 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h2&gt;
 &lt;p&gt;7,5h CM · 7,5h TD/TP&lt;/p&gt;
-&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-&lt;p&gt;Cours sur les architectures distribuées pour le Cloud et les problématiques fondamentales de cohérence, disponibilité et tolérance aux fautes.&lt;br&gt;
-Conception et mise à jour des supports pédagogiques (CM et TD).&lt;br&gt;
-Les TP utilisent les protocoles &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt;ZeroMQ&lt;/strong&gt; pour :&lt;/p&gt;
+&lt;h2 id=&#34;responsabilités-pédagogiques&#34;&gt;Responsabilités pédagogiques&lt;/h2&gt;
+&lt;p&gt;Conception et mise à jour des supports pédagogiques (CM et TD).&lt;br&gt;
+Intégration de TP basés sur &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt;ZeroMQ&lt;/strong&gt; pour :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Illustrer les communications synchrones/asynchrones (anneau unidirectionnel, diffusion)&lt;/li&gt;
+&lt;li&gt;Illustrer les communications synchrones/asynchrones&lt;/li&gt;
 &lt;li&gt;Implémenter des algorithmes d’élection et de gestion de section critique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contenu-du-cours&#34;&gt;Contenu du cours&lt;/h2&gt;
+&lt;p&gt;Cours sur les architectures distribuées pour le Cloud et les problématiques fondamentales de cohérence, disponibilité et tolérance aux fautes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conception et développement pour systèmes mobiles</title>
+      <link>https://example.com/teaching/programmation-mobile-cnam/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/programmation-mobile-cnam/</guid>
+      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CNAM (depuis 2023)&lt;/li&gt;
+&lt;li&gt;Université Paris Nanterre (2024–2025, L3 MIAGE)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
+&lt;p&gt;L3 / M1&lt;/p&gt;
+&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CNAM: 15h CM / TP&lt;/li&gt;
+&lt;li&gt;Université Paris Nanterre: 16,5h CM / 16,5h TD/TP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Cours sur la conception et le développement de systèmes mobiles, couvrant :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programmation mobile (Android/iOS)&lt;/li&gt;
+&lt;li&gt;Architecture client-serveur et services cloud pour applications mobiles&lt;/li&gt;
+&lt;li&gt;Développement de TP pratiques intégrant IoT et communication réseau&lt;/li&gt;
+&lt;li&gt;Évaluation par TD, TP et projets semestriels&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -48,23 +77,6 @@ Les TP utilisent les protocoles &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&
 &lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
 &lt;p&gt;Cours sur : Transmission et signaux, CSMA/CD &amp;amp; CSMA/CA, LAN &amp;amp; VLAN, adressage IP &amp;amp; ARP, paquets IP &amp;amp; ICMP, DHCP &amp;amp; NAT, routage RIP &amp;amp; OSPF, UDP &amp;amp; TCP, protocoles Web &amp;amp; DNS.&lt;br&gt;
 Responsable des TD, TP et examens.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Programmation Mobile</title>
-      <link>https://example.com/teaching/programmation-mobile-cnam/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/programmation-mobile-cnam/</guid>
-      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
-&lt;p&gt;CNAM&lt;/p&gt;
-&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
-&lt;p&gt;L3/M1&lt;/p&gt;
-&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
-&lt;p&gt;15h CM/TP&lt;/p&gt;
-&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-&lt;p&gt;Cours sur le développement Android et les architectures mobiles.&lt;br&gt;
-Les étudiants pratiquent les interactions client–serveur et développent de petites applications mobiles.&lt;/p&gt;
 </description>
     </item>
     

@@ -21,6 +21,29 @@
     </item>
     
     <item>
+      <title>Algorithmes pour le Cloud Computing</title>
+      <link>https://example.com/teaching/algorithmes-cloud-cnam/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/algorithmes-cloud-cnam/</guid>
+      <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
+&lt;p&gt;CNAM&lt;/p&gt;
+&lt;h2 id=&#34;niveau&#34;&gt;Niveau&lt;/h2&gt;
+&lt;p&gt;I2 – Cycle ingénieur&lt;/p&gt;
+&lt;h2 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h2&gt;
+&lt;p&gt;7,5h CM · 7,5h TD/TP&lt;/p&gt;
+&lt;h2 id=&#34;responsabilités-pédagogiques&#34;&gt;Responsabilités pédagogiques&lt;/h2&gt;
+&lt;p&gt;Conception et mise à jour des supports pédagogiques (CM et TD).&lt;br&gt;
+Intégration de TP basés sur &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt;ZeroMQ&lt;/strong&gt; pour :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Illustrer les communications synchrones/asynchrones&lt;/li&gt;
+&lt;li&gt;Implémenter des algorithmes d’élection et de gestion de section critique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contenu-du-cours&#34;&gt;Contenu du cours&lt;/h2&gt;
+&lt;p&gt;Cours sur les architectures distribuées pour le Cloud et les problématiques fondamentales de cohérence, disponibilité et tolérance aux fautes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>⚡️ Turn Jupyter Notebooks into Blog Posts</title>
       <link>https://example.com/blog/notebook-onboarding/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
@@ -1396,8 +1419,8 @@ This is a Dataset Repository mirror of prompts.chat — a social platform for AI
 
 This Hugging Face dataset is a mirror. For the …
   &lt;/p&gt;&lt;div class=&#34;flex items-center gap-6 pt-2&#34;&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
-          &lt;svg class=&#34;w-4 h-4 text-primary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-downloads&#34;&gt;19.922k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
-          &lt;svg class=&#34;w-4 h-4 text-secondary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M21 8.25c0-2.485-2.099-4.5-4.687-4.5c-1.936 0-3.598 1.126-4.313 2.733c-.715-1.607-2.377-2.733-4.312-2.733C5.098 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-likes&#34;&gt;9.606k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+          &lt;svg class=&#34;w-4 h-4 text-primary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-downloads&#34;&gt;20.33k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-secondary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M21 8.25c0-2.485-2.099-4.5-4.687-4.5c-1.936 0-3.598 1.126-4.313 2.733c-.715-1.607-2.377-2.733-4.312-2.733C5.098 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-likes&#34;&gt;9.607k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
     &lt;/div&gt;
     
     
@@ -1659,7 +1682,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-692453871&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-879513624&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1677,7 +1700,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-692453871&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-879513624&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2283,23 +2306,29 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Algorithmes pour le Cloud Computing</title>
-      <link>https://example.com/teaching/algorithmes-cloud-cnam/</link>
+      <title>Conception et développement pour systèmes mobiles</title>
+      <link>https://example.com/teaching/programmation-mobile-cnam/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/algorithmes-cloud-cnam/</guid>
+      <guid>https://example.com/teaching/programmation-mobile-cnam/</guid>
       <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
-&lt;p&gt;CNAM&lt;/p&gt;
-&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
-&lt;p&gt;I2 – Cycle ingénieur&lt;/p&gt;
-&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
-&lt;p&gt;7,5h CM · 7,5h TD/TP&lt;/p&gt;
-&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-&lt;p&gt;Cours sur les architectures distribuées pour le Cloud et les problématiques fondamentales de cohérence, disponibilité et tolérance aux fautes.&lt;br&gt;
-Conception et mise à jour des supports pédagogiques (CM et TD).&lt;br&gt;
-Les TP utilisent les protocoles &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt;ZeroMQ&lt;/strong&gt; pour :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Illustrer les communications synchrones/asynchrones (anneau unidirectionnel, diffusion)&lt;/li&gt;
-&lt;li&gt;Implémenter des algorithmes d’élection et de gestion de section critique&lt;/li&gt;
+&lt;li&gt;CNAM (depuis 2023)&lt;/li&gt;
+&lt;li&gt;Université Paris Nanterre (2024–2025, L3 MIAGE)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
+&lt;p&gt;L3 / M1&lt;/p&gt;
+&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CNAM: 15h CM / TP&lt;/li&gt;
+&lt;li&gt;Université Paris Nanterre: 16,5h CM / 16,5h TD/TP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Cours sur la conception et le développement de systèmes mobiles, couvrant :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programmation mobile (Android/iOS)&lt;/li&gt;
+&lt;li&gt;Architecture client-serveur et services cloud pour applications mobiles&lt;/li&gt;
+&lt;li&gt;Développement de TP pratiques intégrant IoT et communication réseau&lt;/li&gt;
+&lt;li&gt;Évaluation par TD, TP et projets semestriels&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -2318,23 +2347,6 @@ Les TP utilisent les protocoles &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&
 &lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
 &lt;p&gt;Cours sur : Transmission et signaux, CSMA/CD &amp;amp; CSMA/CA, LAN &amp;amp; VLAN, adressage IP &amp;amp; ARP, paquets IP &amp;amp; ICMP, DHCP &amp;amp; NAT, routage RIP &amp;amp; OSPF, UDP &amp;amp; TCP, protocoles Web &amp;amp; DNS.&lt;br&gt;
 Responsable des TD, TP et examens.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Programmation Mobile</title>
-      <link>https://example.com/teaching/programmation-mobile-cnam/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/programmation-mobile-cnam/</guid>
-      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
-&lt;p&gt;CNAM&lt;/p&gt;
-&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
-&lt;p&gt;L3/M1&lt;/p&gt;
-&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
-&lt;p&gt;15h CM/TP&lt;/p&gt;
-&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-&lt;p&gt;Cours sur le développement Android et les architectures mobiles.&lt;br&gt;
-Les étudiants pratiquent les interactions client–serveur et développent de petites applications mobiles.&lt;/p&gt;
 </description>
     </item>
     

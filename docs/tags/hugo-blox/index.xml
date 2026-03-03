@@ -717,8 +717,8 @@ This is a Dataset Repository mirror of prompts.chat — a social platform for AI
 
 This Hugging Face dataset is a mirror. For the …
   &lt;/p&gt;&lt;div class=&#34;flex items-center gap-6 pt-2&#34;&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
-          &lt;svg class=&#34;w-4 h-4 text-primary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-downloads&#34;&gt;19.922k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
-          &lt;svg class=&#34;w-4 h-4 text-secondary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M21 8.25c0-2.485-2.099-4.5-4.687-4.5c-1.936 0-3.598 1.126-4.313 2.733c-.715-1.607-2.377-2.733-4.312-2.733C5.098 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-likes&#34;&gt;9.606k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+          &lt;svg class=&#34;w-4 h-4 text-primary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-downloads&#34;&gt;20.33k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-secondary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M21 8.25c0-2.485-2.099-4.5-4.687-4.5c-1.936 0-3.598 1.126-4.313 2.733c-.715-1.607-2.377-2.733-4.312-2.733C5.098 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-likes&#34;&gt;9.607k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
     &lt;/div&gt;
     
     
@@ -980,7 +980,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-692453871&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-879513624&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -998,7 +998,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-692453871&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-879513624&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

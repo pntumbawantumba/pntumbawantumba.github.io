@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Routage dans les réseaux | </title>
+    <link>http://localhost:1313/teaching/routage-reseaux-sorbonne/</link>
+      <atom:link href="http://localhost:1313/teaching/routage-reseaux-sorbonne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Routage dans les réseaux</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Routage dans les réseaux</title>
+      <link>http://localhost:1313/teaching/routage-reseaux-sorbonne/</link>
+    </image>
+    
+  </channel>
+</rss>
