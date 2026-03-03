@@ -16,15 +16,14 @@ sections:
         folders:
           - teaching
     design:
-      view: list
-      columns: 1
+      view: article-grid
+      columns: 2
       show_date: false
       show_read_time: false
       show_summary: true
-      show_image: false
+      show_image: true
       fill_image: false
 ---
-
 
 
 

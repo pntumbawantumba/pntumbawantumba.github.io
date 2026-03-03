@@ -1,8 +1,14 @@
 ---
 title: "Introduction aux réseaux"
 date: 2023-01-01
+type: teaching
 summary: "Sorbonne Université · L3 · 56h TD/TP"
+image:
+  filename: featured.jpg
+  focal_point: "Center"
+  preview_only: false
 ---
+
 ### Établissement
 Sorbonne Université
 

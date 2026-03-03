@@ -6,8 +6,14 @@ set -e
 echo "🚀 Rebuilding Hugo site..."
 hugo
 
-echo "🔀 Switching to gh-pages branch..."
-git checkout gh-pages
+
+if [ -d "docs" ]; then
+    echo "🗑 Cleaning docs folder..."
+    rm -rf docs/*
+else
+    echo "📁 docs folder does not exist. Creating..."
+    mkdir docs
+fi
 
 echo "📦 Copying public files to docs..."
 cp -r public/* docs/
