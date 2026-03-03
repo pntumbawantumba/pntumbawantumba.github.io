@@ -15,7 +15,7 @@
     <item>
       <title>Algorithmes pour le Cloud Computing</title>
       <link>https://example.com/teaching/algorithmes-cloud-cnam/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/algorithmes-cloud-cnam/</guid>
       <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
 &lt;p&gt;CNAM&lt;/p&gt;
@@ -46,7 +46,7 @@ Intégration de TP basés sur &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt
 &lt;li&gt;Université Paris Nanterre (2024–2025, L3 MIAGE)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
-&lt;p&gt;L3 / M1&lt;/p&gt;
+&lt;p&gt;L3 / M1 – Bachelor / Master&lt;/p&gt;
 &lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;CNAM: 15h CM / TP&lt;/li&gt;
@@ -55,10 +55,10 @@ Intégration de TP basés sur &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt
 &lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
 &lt;p&gt;Cours sur la conception et le développement de systèmes mobiles, couvrant :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Programmation mobile (Android/iOS)&lt;/li&gt;
+&lt;li&gt;Programmation mobile (Android)&lt;/li&gt;
 &lt;li&gt;Architecture client-serveur et services cloud pour applications mobiles&lt;/li&gt;
 &lt;li&gt;Développement de TP pratiques intégrant IoT et communication réseau&lt;/li&gt;
-&lt;li&gt;Évaluation par TD, TP et projets semestriels&lt;/li&gt;
+&lt;li&gt;Évaluation par TP et min-projets et examens&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -83,17 +83,27 @@ Responsable des TD, TP et examens.&lt;/p&gt;
     <item>
       <title>Routage dans les réseaux</title>
       <link>https://example.com/teaching/routage-reseaux-sorbonne/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/routage-reseaux-sorbonne/</guid>
-      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
 &lt;p&gt;Sorbonne Université&lt;/p&gt;
-&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
-&lt;p&gt;M1 – Master 1&lt;/p&gt;
-&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
-&lt;p&gt;12h CM · 40h TD/TP&lt;/p&gt;
-&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-&lt;p&gt;Cours couvrant LAN, adressage, forwarding, routage intra- et inter-domaine, architectures peer-to-peer, applications de partage de fichiers et mobilité (Mobile IP, MANET, réseaux à contacts).&lt;br&gt;
-Responsable des CM, TD et TP.&lt;/p&gt;
+&lt;h2 id=&#34;niveau&#34;&gt;Niveau&lt;/h2&gt;
+&lt;p&gt;Master 1 – Parcours Réseaux&lt;/p&gt;
+&lt;h2 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h2&gt;
+&lt;p&gt;12h CM · 40h TD · TP&lt;/p&gt;
+&lt;h2 id=&#34;responsabilités-pédagogiques&#34;&gt;Responsabilités pédagogiques&lt;/h2&gt;
+&lt;p&gt;Responsable de certains enseignements en CM ainsi que des séances de TD et TP.&lt;/p&gt;
+&lt;h2 id=&#34;contenu-du-cours&#34;&gt;Contenu du cours&lt;/h2&gt;
+&lt;p&gt;Le module couvre les thématiques suivantes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Réseaux LAN et mécanismes d’adressage&lt;/li&gt;
+&lt;li&gt;Forwarding et principes de commutation&lt;/li&gt;
+&lt;li&gt;Routage intra-domaine (RIP, OSPF)&lt;/li&gt;
+&lt;li&gt;Routage inter-domaine (BGP – principes)&lt;/li&gt;
+&lt;li&gt;Architectures pair-à-pair (P2P)&lt;/li&gt;
+&lt;li&gt;Applications de partage de fichiers&lt;/li&gt;
+&lt;li&gt;Mobilité : Mobile IP, MANET, réseaux opportunistes (contact-based networks)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

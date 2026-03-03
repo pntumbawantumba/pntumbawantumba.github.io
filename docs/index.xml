@@ -21,29 +21,6 @@
     </item>
     
     <item>
-      <title>Algorithmes pour le Cloud Computing</title>
-      <link>https://example.com/teaching/algorithmes-cloud-cnam/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/algorithmes-cloud-cnam/</guid>
-      <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
-&lt;p&gt;CNAM&lt;/p&gt;
-&lt;h2 id=&#34;niveau&#34;&gt;Niveau&lt;/h2&gt;
-&lt;p&gt;I2 – Cycle ingénieur&lt;/p&gt;
-&lt;h2 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h2&gt;
-&lt;p&gt;7,5h CM · 7,5h TD/TP&lt;/p&gt;
-&lt;h2 id=&#34;responsabilités-pédagogiques&#34;&gt;Responsabilités pédagogiques&lt;/h2&gt;
-&lt;p&gt;Conception et mise à jour des supports pédagogiques (CM et TD).&lt;br&gt;
-Intégration de TP basés sur &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt;ZeroMQ&lt;/strong&gt; pour :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Illustrer les communications synchrones/asynchrones&lt;/li&gt;
-&lt;li&gt;Implémenter des algorithmes d’élection et de gestion de section critique&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;contenu-du-cours&#34;&gt;Contenu du cours&lt;/h2&gt;
-&lt;p&gt;Cours sur les architectures distribuées pour le Cloud et les problématiques fondamentales de cohérence, disponibilité et tolérance aux fautes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>⚡️ Turn Jupyter Notebooks into Blog Posts</title>
       <link>https://example.com/blog/notebook-onboarding/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
@@ -1682,7 +1659,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-879513624&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-253879164&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1700,7 +1677,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-879513624&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-253879164&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2306,6 +2283,29 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Algorithmes pour le Cloud Computing</title>
+      <link>https://example.com/teaching/algorithmes-cloud-cnam/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/algorithmes-cloud-cnam/</guid>
+      <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
+&lt;p&gt;CNAM&lt;/p&gt;
+&lt;h2 id=&#34;niveau&#34;&gt;Niveau&lt;/h2&gt;
+&lt;p&gt;I2 – Cycle ingénieur&lt;/p&gt;
+&lt;h2 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h2&gt;
+&lt;p&gt;7,5h CM · 7,5h TD/TP&lt;/p&gt;
+&lt;h2 id=&#34;responsabilités-pédagogiques&#34;&gt;Responsabilités pédagogiques&lt;/h2&gt;
+&lt;p&gt;Conception et mise à jour des supports pédagogiques (CM et TD).&lt;br&gt;
+Intégration de TP basés sur &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt;ZeroMQ&lt;/strong&gt; pour :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Illustrer les communications synchrones/asynchrones&lt;/li&gt;
+&lt;li&gt;Implémenter des algorithmes d’élection et de gestion de section critique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contenu-du-cours&#34;&gt;Contenu du cours&lt;/h2&gt;
+&lt;p&gt;Cours sur les architectures distribuées pour le Cloud et les problématiques fondamentales de cohérence, disponibilité et tolérance aux fautes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Conception et développement pour systèmes mobiles</title>
       <link>https://example.com/teaching/programmation-mobile-cnam/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -2316,7 +2316,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;li&gt;Université Paris Nanterre (2024–2025, L3 MIAGE)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
-&lt;p&gt;L3 / M1&lt;/p&gt;
+&lt;p&gt;L3 / M1 – Bachelor / Master&lt;/p&gt;
 &lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;CNAM: 15h CM / TP&lt;/li&gt;
@@ -2325,10 +2325,10 @@ Parallel 4   :         des6, after des4, 1d
 &lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
 &lt;p&gt;Cours sur la conception et le développement de systèmes mobiles, couvrant :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Programmation mobile (Android/iOS)&lt;/li&gt;
+&lt;li&gt;Programmation mobile (Android)&lt;/li&gt;
 &lt;li&gt;Architecture client-serveur et services cloud pour applications mobiles&lt;/li&gt;
 &lt;li&gt;Développement de TP pratiques intégrant IoT et communication réseau&lt;/li&gt;
-&lt;li&gt;Évaluation par TD, TP et projets semestriels&lt;/li&gt;
+&lt;li&gt;Évaluation par TP et min-projets et examens&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -2353,17 +2353,27 @@ Responsable des TD, TP et examens.&lt;/p&gt;
     <item>
       <title>Routage dans les réseaux</title>
       <link>https://example.com/teaching/routage-reseaux-sorbonne/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/routage-reseaux-sorbonne/</guid>
-      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
 &lt;p&gt;Sorbonne Université&lt;/p&gt;
-&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
-&lt;p&gt;M1 – Master 1&lt;/p&gt;
-&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
-&lt;p&gt;12h CM · 40h TD/TP&lt;/p&gt;
-&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-&lt;p&gt;Cours couvrant LAN, adressage, forwarding, routage intra- et inter-domaine, architectures peer-to-peer, applications de partage de fichiers et mobilité (Mobile IP, MANET, réseaux à contacts).&lt;br&gt;
-Responsable des CM, TD et TP.&lt;/p&gt;
+&lt;h2 id=&#34;niveau&#34;&gt;Niveau&lt;/h2&gt;
+&lt;p&gt;Master 1 – Parcours Réseaux&lt;/p&gt;
+&lt;h2 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h2&gt;
+&lt;p&gt;12h CM · 40h TD · TP&lt;/p&gt;
+&lt;h2 id=&#34;responsabilités-pédagogiques&#34;&gt;Responsabilités pédagogiques&lt;/h2&gt;
+&lt;p&gt;Responsable de certains enseignements en CM ainsi que des séances de TD et TP.&lt;/p&gt;
+&lt;h2 id=&#34;contenu-du-cours&#34;&gt;Contenu du cours&lt;/h2&gt;
+&lt;p&gt;Le module couvre les thématiques suivantes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Réseaux LAN et mécanismes d’adressage&lt;/li&gt;
+&lt;li&gt;Forwarding et principes de commutation&lt;/li&gt;
+&lt;li&gt;Routage intra-domaine (RIP, OSPF)&lt;/li&gt;
+&lt;li&gt;Routage inter-domaine (BGP – principes)&lt;/li&gt;
+&lt;li&gt;Architectures pair-à-pair (P2P)&lt;/li&gt;
+&lt;li&gt;Applications de partage de fichiers&lt;/li&gt;
+&lt;li&gt;Mobilité : Mobile IP, MANET, réseaux opportunistes (contact-based networks)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
