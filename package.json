@@ -13,7 +13,18 @@
     "@tailwindcss/cli": "^4.1.12",
     "@tailwindcss/typography": "^0.5.10",
     "pagefind": "^1.4.0",
-    "preact": "^10.27.2",
+    "preact": "^10.27.2"
+  },
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
     "tailwindcss": "^4.2.1"
   }
 }
