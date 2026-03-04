@@ -13,6 +13,101 @@
     </image>
     
     <item>
+      <title>Algorithmes pour le Cloud Computing</title>
+      <link>https://example.com/teaching/algorithmes-cloud-cnam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/algorithmes-cloud-cnam/</guid>
+      <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
+&lt;p&gt;CNAM&lt;/p&gt;
+&lt;h2 id=&#34;niveau&#34;&gt;Niveau&lt;/h2&gt;
+&lt;p&gt;I2 – Cycle ingénieur&lt;/p&gt;
+&lt;h2 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h2&gt;
+&lt;p&gt;7,5h CM · 7,5h TD/TP&lt;/p&gt;
+&lt;h2 id=&#34;responsabilités-pédagogiques&#34;&gt;Responsabilités pédagogiques&lt;/h2&gt;
+&lt;p&gt;Conception et mise à jour des supports pédagogiques (CM et TD).&lt;br&gt;
+Intégration de TP basés sur &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt;ZeroMQ&lt;/strong&gt; pour :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Illustrer les communications synchrones/asynchrones&lt;/li&gt;
+&lt;li&gt;Implémenter des algorithmes d’élection et de gestion de section critique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contenu-du-cours&#34;&gt;Contenu du cours&lt;/h2&gt;
+&lt;p&gt;Cours sur les architectures distribuées pour le Cloud et les problématiques fondamentales de cohérence, disponibilité et tolérance aux fautes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conception et développement pour systèmes mobiles</title>
+      <link>https://example.com/teaching/programmation-mobile-cnam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/programmation-mobile-cnam/</guid>
+      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CNAM (depuis 2023)&lt;/li&gt;
+&lt;li&gt;Université Paris Nanterre (2024–2025, L3 MIAGE)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
+&lt;p&gt;L3 / M1 – Bachelor / Master&lt;/p&gt;
+&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CNAM: 15h CM / TP&lt;/li&gt;
+&lt;li&gt;Université Paris Nanterre: 16,5h CM / 16,5h TD/TP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Cours sur la conception et le développement de systèmes mobiles, couvrant :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programmation mobile (Android)&lt;/li&gt;
+&lt;li&gt;Architecture client-serveur et services cloud pour applications mobiles&lt;/li&gt;
+&lt;li&gt;Développement de TP pratiques intégrant IoT et communication réseau&lt;/li&gt;
+&lt;li&gt;Évaluation par TP et min-projets et examens&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction aux réseaux</title>
+      <link>https://example.com/teaching/introduction-reseaux-sorbonne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/introduction-reseaux-sorbonne/</guid>
+      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
+&lt;p&gt;Sorbonne Université&lt;/p&gt;
+&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
+&lt;p&gt;L3 – Licence 3&lt;/p&gt;
+&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
+&lt;p&gt;56h TD/TP&lt;/p&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Cours sur : Transmission et signaux, CSMA/CD &amp;amp; CSMA/CA, LAN &amp;amp; VLAN, adressage IP &amp;amp; ARP, paquets IP &amp;amp; ICMP, DHCP &amp;amp; NAT, routage RIP &amp;amp; OSPF, UDP &amp;amp; TCP, protocoles Web &amp;amp; DNS.&lt;br&gt;
+Responsable des TD, TP et examens.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Routage dans les réseaux</title>
+      <link>https://example.com/teaching/routage-reseaux-sorbonne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/routage-reseaux-sorbonne/</guid>
+      <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
+&lt;p&gt;Sorbonne Université&lt;/p&gt;
+&lt;h2 id=&#34;niveau&#34;&gt;Niveau&lt;/h2&gt;
+&lt;p&gt;Master 1 – Parcours Réseaux&lt;/p&gt;
+&lt;h2 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h2&gt;
+&lt;p&gt;12h CM · 40h TD · TP&lt;/p&gt;
+&lt;h2 id=&#34;responsabilités-pédagogiques&#34;&gt;Responsabilités pédagogiques&lt;/h2&gt;
+&lt;p&gt;Responsable de certains enseignements en CM ainsi que des séances de TD et TP.&lt;/p&gt;
+&lt;h2 id=&#34;contenu-du-cours&#34;&gt;Contenu du cours&lt;/h2&gt;
+&lt;p&gt;Le module couvre les thématiques suivantes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Réseaux LAN et mécanismes d’adressage&lt;/li&gt;
+&lt;li&gt;Forwarding et principes de commutation&lt;/li&gt;
+&lt;li&gt;Routage intra-domaine (RIP, OSPF)&lt;/li&gt;
+&lt;li&gt;Routage inter-domaine (BGP – principes)&lt;/li&gt;
+&lt;li&gt;Architectures pair-à-pair (P2P)&lt;/li&gt;
+&lt;li&gt;Applications de partage de fichiers&lt;/li&gt;
+&lt;li&gt;Mobilité : Mobile IP, MANET, réseaux opportunistes (contact-based networks)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Feature Skew Control for In-Network Federated Learning</title>
       <link>https://example.com/publications/feature_skew_control_for_in_network_federated_lear/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -1331,8 +1426,8 @@ Thank you for your attention! Feel free to reach out with questions or contribut
     
     &lt;div class=&#34;p-6 space-y-4&#34;&gt;
       &lt;div class=&#34;flex items-center gap-6 pt-2&#34;&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
-          &lt;svg class=&#34;w-4 h-4 text-primary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-7aa30c396b2f58a7972cf6a10cb190b4-downloads&#34;&gt;2.061178M&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
-          &lt;svg class=&#34;w-4 h-4 text-secondary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M21 8.25c0-2.485-2.099-4.5-4.687-4.5c-1.936 0-3.598 1.126-4.313 2.733c-.715-1.607-2.377-2.733-4.312-2.733C5.098 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-7aa30c396b2f58a7972cf6a10cb190b4-likes&#34;&gt;1.488k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+          &lt;svg class=&#34;w-4 h-4 text-primary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-7aa30c396b2f58a7972cf6a10cb190b4-downloads&#34;&gt;2.056642M&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-secondary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M21 8.25c0-2.485-2.099-4.5-4.687-4.5c-1.936 0-3.598 1.126-4.313 2.733c-.715-1.607-2.377-2.733-4.312-2.733C5.098 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-7aa30c396b2f58a7972cf6a10cb190b4-likes&#34;&gt;1.492k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
     &lt;/div&gt;
     
     
@@ -1396,8 +1491,8 @@ This is a Dataset Repository mirror of prompts.chat — a social platform for AI
 
 This Hugging Face dataset is a mirror. For the …
   &lt;/p&gt;&lt;div class=&#34;flex items-center gap-6 pt-2&#34;&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
-          &lt;svg class=&#34;w-4 h-4 text-primary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-downloads&#34;&gt;20.33k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
-          &lt;svg class=&#34;w-4 h-4 text-secondary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M21 8.25c0-2.485-2.099-4.5-4.687-4.5c-1.936 0-3.598 1.126-4.313 2.733c-.715-1.607-2.377-2.733-4.312-2.733C5.098 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-likes&#34;&gt;9.607k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+          &lt;svg class=&#34;w-4 h-4 text-primary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-downloads&#34;&gt;20.388k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-secondary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M21 8.25c0-2.485-2.099-4.5-4.687-4.5c-1.936 0-3.598 1.126-4.313 2.733c-.715-1.607-2.377-2.733-4.312-2.733C5.098 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-likes&#34;&gt;9.608k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
     &lt;/div&gt;
     
     
@@ -1449,10 +1544,10 @@ This Hugging Face dataset is a mirror. For the …
       &lt;p class=&#34;text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3&#34;&gt;
     ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites &amp;amp; Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
   &lt;/p&gt;&lt;div class=&#34;flex items-center gap-6 pt-2&#34;&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
-          &lt;span class=&#34;flex items-center justify-center leading-none text-lg text-primary-500&#34;&gt;git-fork&lt;/span&gt;&lt;span id=&#34;hb-hb-embed-3fc4624744c495fd8995995542224583-forks&#34;&gt;2.947k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;span class=&#34;flex items-center justify-center leading-none text-lg text-primary-500&#34;&gt;git-fork&lt;/span&gt;&lt;span id=&#34;hb-hb-embed-3fc4624744c495fd8995995542224583-forks&#34;&gt;2.948k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
           &lt;svg class=&#34;w-4 h-4 text-red-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m9-.75a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9 3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
             &lt;a href=&#34;https://github.com/HugoBlox/kit/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;font-medium hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34; id=&#34;hb-hb-embed-3fc4624744c495fd8995995542224583-issues&#34;&gt;2&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
-          &lt;svg class=&#34;w-4 h-4 text-yellow-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M11.48 3.499a.562.562 0 0 1 1.04 0l2.125 5.111a.563.563 0 0 0 .475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 0 0-.182.557l1.285 5.385a.562.562 0 0 1-.84.61l-4.725-2.885a.563.563 0 0 0-.586 0L6.982 20.54a.562.562 0 0 1-.84-.61l1.285-5.386a.562.562 0 0 0-.182-.557l-4.204-3.602a.563.563 0 0 1 .321-.988l5.518-.442a.563.563 0 0 0 .475-.345z&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-3fc4624744c495fd8995995542224583-stars&#34;&gt;9.938k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;flex flex-wrap gap-1 pt-2&#34;&gt;&lt;span class=&#34;inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-yellow-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M11.48 3.499a.562.562 0 0 1 1.04 0l2.125 5.111a.563.563 0 0 0 .475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 0 0-.182.557l1.285 5.385a.562.562 0 0 1-.84.61l-4.725-2.885a.563.563 0 0 0-.586 0L6.982 20.54a.562.562 0 0 1-.84-.61l1.285-5.386a.562.562 0 0 0-.182-.557l-4.204-3.602a.563.563 0 0 1 .321-.988l5.518-.442a.563.563 0 0 0 .475-.345z&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-3fc4624744c495fd8995995542224583-stars&#34;&gt;9.931k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;flex flex-wrap gap-1 pt-2&#34;&gt;&lt;span class=&#34;inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300&#34;&gt;
           academic
         &lt;/span&gt;&lt;span class=&#34;inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300&#34;&gt;
           blog
@@ -1629,10 +1724,10 @@ This Hugging Face dataset is a mirror. For the …
   &lt;/div&gt;&lt;p class=&#34;text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3&#34;&gt;
     The interactive graphing library for Python ✨
   &lt;/p&gt;&lt;div class=&#34;flex items-center gap-6 pt-2&#34;&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
-          &lt;span class=&#34;flex items-center justify-center leading-none text-lg text-primary-500&#34;&gt;git-fork&lt;/span&gt;&lt;span id=&#34;hb-hb-embed-9dcc7bf290c28d07438cbcbefa65c250-forks&#34;&gt;2.781k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;span class=&#34;flex items-center justify-center leading-none text-lg text-primary-500&#34;&gt;git-fork&lt;/span&gt;&lt;span id=&#34;hb-hb-embed-9dcc7bf290c28d07438cbcbefa65c250-forks&#34;&gt;2.78k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
           &lt;svg class=&#34;w-4 h-4 text-red-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m9-.75a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9 3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-            &lt;a href=&#34;https://github.com/plotly/plotly.py/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;font-medium hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34; id=&#34;hb-hb-embed-9dcc7bf290c28d07438cbcbefa65c250-issues&#34;&gt;780&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
-          &lt;svg class=&#34;w-4 h-4 text-yellow-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M11.48 3.499a.562.562 0 0 1 1.04 0l2.125 5.111a.563.563 0 0 0 .475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 0 0-.182.557l1.285 5.385a.562.562 0 0 1-.84.61l-4.725-2.885a.563.563 0 0 0-.586 0L6.982 20.54a.562.562 0 0 1-.84-.61l1.285-5.386a.562.562 0 0 0-.182-.557l-4.204-3.602a.563.563 0 0 1 .321-.988l5.518-.442a.563.563 0 0 0 .475-.345z&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-9dcc7bf290c28d07438cbcbefa65c250-stars&#34;&gt;18.291k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;flex flex-wrap gap-1 pt-2&#34;&gt;&lt;span class=&#34;inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300&#34;&gt;
+            &lt;a href=&#34;https://github.com/plotly/plotly.py/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;font-medium hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34; id=&#34;hb-hb-embed-9dcc7bf290c28d07438cbcbefa65c250-issues&#34;&gt;777&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-yellow-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M11.48 3.499a.562.562 0 0 1 1.04 0l2.125 5.111a.563.563 0 0 0 .475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 0 0-.182.557l1.285 5.385a.562.562 0 0 1-.84.61l-4.725-2.885a.563.563 0 0 0-.586 0L6.982 20.54a.562.562 0 0 1-.84-.61l1.285-5.386a.562.562 0 0 0-.182-.557l-4.204-3.602a.563.563 0 0 1 .321-.988l5.518-.442a.563.563 0 0 0 .475-.345z&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-9dcc7bf290c28d07438cbcbefa65c250-stars&#34;&gt;18.303k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;flex flex-wrap gap-1 pt-2&#34;&gt;&lt;span class=&#34;inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300&#34;&gt;
           d3
         &lt;/span&gt;&lt;span class=&#34;inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300&#34;&gt;
           dashboard
@@ -1659,7 +1754,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-738952614&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-632748159&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1677,7 +1772,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-738952614&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-632748159&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2279,101 +2374,6 @@ Parallel 4   :         des6, after des4, 1d
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Algorithmes pour le Cloud Computing</title>
-      <link>https://example.com/teaching/algorithmes-cloud-cnam/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/algorithmes-cloud-cnam/</guid>
-      <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
-&lt;p&gt;CNAM&lt;/p&gt;
-&lt;h2 id=&#34;niveau&#34;&gt;Niveau&lt;/h2&gt;
-&lt;p&gt;I2 – Cycle ingénieur&lt;/p&gt;
-&lt;h2 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h2&gt;
-&lt;p&gt;7,5h CM · 7,5h TD/TP&lt;/p&gt;
-&lt;h2 id=&#34;responsabilités-pédagogiques&#34;&gt;Responsabilités pédagogiques&lt;/h2&gt;
-&lt;p&gt;Conception et mise à jour des supports pédagogiques (CM et TD).&lt;br&gt;
-Intégration de TP basés sur &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt;ZeroMQ&lt;/strong&gt; pour :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Illustrer les communications synchrones/asynchrones&lt;/li&gt;
-&lt;li&gt;Implémenter des algorithmes d’élection et de gestion de section critique&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;contenu-du-cours&#34;&gt;Contenu du cours&lt;/h2&gt;
-&lt;p&gt;Cours sur les architectures distribuées pour le Cloud et les problématiques fondamentales de cohérence, disponibilité et tolérance aux fautes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Conception et développement pour systèmes mobiles</title>
-      <link>https://example.com/teaching/programmation-mobile-cnam/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/programmation-mobile-cnam/</guid>
-      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;CNAM (depuis 2023)&lt;/li&gt;
-&lt;li&gt;Université Paris Nanterre (2024–2025, L3 MIAGE)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
-&lt;p&gt;L3 / M1 – Bachelor / Master&lt;/p&gt;
-&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;CNAM: 15h CM / TP&lt;/li&gt;
-&lt;li&gt;Université Paris Nanterre: 16,5h CM / 16,5h TD/TP&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-&lt;p&gt;Cours sur la conception et le développement de systèmes mobiles, couvrant :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Programmation mobile (Android)&lt;/li&gt;
-&lt;li&gt;Architecture client-serveur et services cloud pour applications mobiles&lt;/li&gt;
-&lt;li&gt;Développement de TP pratiques intégrant IoT et communication réseau&lt;/li&gt;
-&lt;li&gt;Évaluation par TP et min-projets et examens&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introduction aux réseaux</title>
-      <link>https://example.com/teaching/introduction-reseaux-sorbonne/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/introduction-reseaux-sorbonne/</guid>
-      <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
-&lt;p&gt;Sorbonne Université&lt;/p&gt;
-&lt;h3 id=&#34;niveau&#34;&gt;Niveau&lt;/h3&gt;
-&lt;p&gt;L3 – Licence 3&lt;/p&gt;
-&lt;h3 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h3&gt;
-&lt;p&gt;56h TD/TP&lt;/p&gt;
-&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-&lt;p&gt;Cours sur : Transmission et signaux, CSMA/CD &amp;amp; CSMA/CA, LAN &amp;amp; VLAN, adressage IP &amp;amp; ARP, paquets IP &amp;amp; ICMP, DHCP &amp;amp; NAT, routage RIP &amp;amp; OSPF, UDP &amp;amp; TCP, protocoles Web &amp;amp; DNS.&lt;br&gt;
-Responsable des TD, TP et examens.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Routage dans les réseaux</title>
-      <link>https://example.com/teaching/routage-reseaux-sorbonne/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/routage-reseaux-sorbonne/</guid>
-      <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
-&lt;p&gt;Sorbonne Université&lt;/p&gt;
-&lt;h2 id=&#34;niveau&#34;&gt;Niveau&lt;/h2&gt;
-&lt;p&gt;Master 1 – Parcours Réseaux&lt;/p&gt;
-&lt;h2 id=&#34;volume-horaire&#34;&gt;Volume horaire&lt;/h2&gt;
-&lt;p&gt;12h CM · 40h TD · TP&lt;/p&gt;
-&lt;h2 id=&#34;responsabilités-pédagogiques&#34;&gt;Responsabilités pédagogiques&lt;/h2&gt;
-&lt;p&gt;Responsable de certains enseignements en CM ainsi que des séances de TD et TP.&lt;/p&gt;
-&lt;h2 id=&#34;contenu-du-cours&#34;&gt;Contenu du cours&lt;/h2&gt;
-&lt;p&gt;Le module couvre les thématiques suivantes :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Réseaux LAN et mécanismes d’adressage&lt;/li&gt;
-&lt;li&gt;Forwarding et principes de commutation&lt;/li&gt;
-&lt;li&gt;Routage intra-domaine (RIP, OSPF)&lt;/li&gt;
-&lt;li&gt;Routage inter-domaine (BGP – principes)&lt;/li&gt;
-&lt;li&gt;Architectures pair-à-pair (P2P)&lt;/li&gt;
-&lt;li&gt;Applications de partage de fichiers&lt;/li&gt;
-&lt;li&gt;Mobilité : Mobile IP, MANET, réseaux opportunistes (contact-based networks)&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

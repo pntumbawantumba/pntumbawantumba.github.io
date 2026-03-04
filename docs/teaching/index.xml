@@ -15,7 +15,7 @@
     <item>
       <title>Algorithmes pour le Cloud Computing</title>
       <link>https://example.com/teaching/algorithmes-cloud-cnam/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/algorithmes-cloud-cnam/</guid>
       <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
 &lt;p&gt;CNAM&lt;/p&gt;
@@ -38,7 +38,7 @@ Intégration de TP basés sur &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt
     <item>
       <title>Conception et développement pour systèmes mobiles</title>
       <link>https://example.com/teaching/programmation-mobile-cnam/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/programmation-mobile-cnam/</guid>
       <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
 &lt;ul&gt;
@@ -66,7 +66,7 @@ Intégration de TP basés sur &lt;strong&gt;gRPC&lt;/strong&gt; et &lt;strong&gt
     <item>
       <title>Introduction aux réseaux</title>
       <link>https://example.com/teaching/introduction-reseaux-sorbonne/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/introduction-reseaux-sorbonne/</guid>
       <description>&lt;h3 id=&#34;établissement&#34;&gt;Établissement&lt;/h3&gt;
 &lt;p&gt;Sorbonne Université&lt;/p&gt;
@@ -83,7 +83,7 @@ Responsable des TD, TP et examens.&lt;/p&gt;
     <item>
       <title>Routage dans les réseaux</title>
       <link>https://example.com/teaching/routage-reseaux-sorbonne/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/routage-reseaux-sorbonne/</guid>
       <description>&lt;h2 id=&#34;établissement&#34;&gt;Établissement&lt;/h2&gt;
 &lt;p&gt;Sorbonne Université&lt;/p&gt;

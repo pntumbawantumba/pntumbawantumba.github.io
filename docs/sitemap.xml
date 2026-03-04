@@ -4,6 +4,14 @@
   
   
   <url>
+    <loc>https://example.com/teaching/algorithmes-cloud-cnam/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/teaching/programmation-mobile-cnam/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/teaching/introduction-reseaux-sorbonne/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/teaching/routage-reseaux-sorbonne/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/publications/feature_skew_control_for_in_network_federated_lear/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publications/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -64,15 +72,7 @@
   <url>
     <loc>https://example.com/blog/project-management/</loc><lastmod>2023-10-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/teaching/algorithmes-cloud-cnam/</loc><lastmod>2023-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/teaching/programmation-mobile-cnam/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/teaching/introduction-reseaux-sorbonne/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/teaching/routage-reseaux-sorbonne/</loc><lastmod>2022-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publications/scheduling_streaming_operators_for_iot_edge_analyt/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
