@@ -1,6 +1,8 @@
 ---
 title: "Routage dans les réseaux"
-date: 2022-09-01
+hide_citation_date: true
+show_data: false
+weight: 13
 type: teaching
 
 summary: "Sorbonne Université · Master 1 · 12h CM · 40h TD/TP · 2022–2023"

@@ -1,4 +1,5 @@
 ---
+title: Adaptive Scheduling of Continuous Operators for IoT Edge analytics
 authors:
 - Patient Ntumba
 - Nikolaos Georgantas
@@ -12,6 +13,5 @@ links:
   type: pdf
   url: https://hal.science/hal-04558794v1
 publication: Future Generation Computer Systems, 2024, 10.1016/j.future.2024.04.029
-title: Adaptive Scheduling of Continuous Operators for IoT Edge analytics
 type: publication
 ---

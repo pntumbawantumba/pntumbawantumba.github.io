@@ -1,12 +1,14 @@
 ---
 title: "Algorithmes pour le Cloud Computing"
-date: 2023-09-01
 type: teaching
+weight: 10
 summary: "CNAM · I2 – Cycle ingénieur · 7,5h CM · 7,5h TD/TP · Depuis 2023"
 image:
   filename: featured.png
   focal_point: "Center"
   preview_only: false
+hide_citation_date: true
+show_data: false
 ---
 
 ## Établissement

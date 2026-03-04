@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Patient NTUMBA
+  display: Patient NTUMBA
   given: Patient
   family: NTUMBA WA NTUMBA
   alternate: ''  # Example: 王伟
@@ -11,13 +11,16 @@ name:
 postnominals:
   - PhD
 status:
-  icon: "☕️"
+  icon: ""
 role: Postdoctoral researcher
 bio: |
   
-  I am a postdoctoral researcher specializing in distributed and networked systems with a focus on In-Network and Edge/Fog/Cloud computing, IoT, and systems for distributed AI. 
+  I am a postdoctoral researcher at CNAM in the CEDRIC-ROC team. I am specializing in distributed and networked systems with a focus on In-Network and Edge/Fog/Cloud computing, IoT, and systems for distributed AI. 
   My work addresses the challenges of orchestrating and scheduling AI and microservice applications across geographically distributed infrastructures under constraints of latency, energy, and resource availability. 
   I combine analytical modeling, optimization, and heuristic algorithms with experimental validation on realistic platforms.
+
+  Currently I am working with Prof. Stefano Secci on data pipeline architectures and AI orchestration for 5G and Mobile Edge Computing environments.
+  I completed my PhD at Inria (MiMove team) under the supervision of Dr. Nikolaos Georgantas and Prof. Vassilis Christophides, focusing on scheduling and optimization for real-time IoT analytics across Edge–Fog–Cloud infrastructures.
 
 avatar:
   image: /my_photo.jpeg  # <-- mettre le chemin relatif depuis static/
@@ -26,7 +29,7 @@ avatar:
 
 
 affiliations:
-  - name: ROC-CERDRIC, CNAM
+  - name: CNAM CEDRIC-ROC Team
     url: https://roc.cnam.fr/
 
 links:
@@ -49,7 +52,7 @@ interests:
   - Robust Systems
 
 education:
-  - degree: PhD Computer Science
+  - degree: PhD in Computer Science
     institution: Sorbonne Université
     start:  2018-09-01
     end: 2022-08-31
@@ -57,16 +60,16 @@ education:
     #  Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
       text: Download dissertation
-      url: /resume.pdf
+      url: https://theses.hal.science/tel-03846698v2
       icon: hero/arrow-down-tray
-  - degree: MS Distributed System and Network
+  - degree: M. Sc. Distributed System and Network
     institution: Université de Franche-Comté
     start: 2016-09-01
     end: 2014-09-01
-  - degree: BS Math-Info
+  - degree: B. Sc. Math-Info
     institution: Université de Kinshasa
-    start: 2012-09-01
-    end: 2008-09-01
+    start: 2008-09-01
+    end: 2012-09-01
 
 experience:
   - role: Postdoctoral Researcher
@@ -115,8 +118,6 @@ experience:
     start: 2013-01-01
     end: 2014-08-31
     summary: |
-
-
 
 
 languages:

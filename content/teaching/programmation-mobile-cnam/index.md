@@ -1,10 +1,12 @@
 ---
 title: "Conception et développement pour systèmes mobiles"
-date: 2023-01-01
+hide_citation_date: true
+show_data: false
+weight: 11
 type: teaching
 summary: "CNAM · L3/M1 · 12h CM · 15h TD/TP | Université Paris Nanterre · L3 MIAGE · 16,5h CM · 16,5h TD/TP"
 image:
-  filename: featured/mobile_systems.jpg
+  filename: featured.jpg
   focal_point: "Center"
   preview_only: false
 ---

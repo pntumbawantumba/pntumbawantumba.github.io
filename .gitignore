@@ -6,6 +6,10 @@
 # Hugo Build Artifacts
 # ============================================================================
 
+
+# Hugo vendor directory
+_vendor/
+
 # Generated site output
 public/
 

@@ -8,6 +8,8 @@ title: ''
 # Website URL
 baseURL: 'https://example.com/'
 
+favicon: 'favicon.ico'
+
 ############################
 ## LANGUAGE
 ############################
@@ -26,6 +28,11 @@ cascade:
       path: /slides/**
       kind: page
     outputs: [HTML, present]
+
+params:
+  appearance:
+    icon:
+      emoji: "🎓"
 
 ############################
 ## ADVANCED

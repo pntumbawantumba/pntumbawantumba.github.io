@@ -1,0 +1,35 @@
+.page-body {
+  max-width: 100% !important;
+}
+
+.teaching .card img {
+  display: none !important;
+}
+
+
+/* Masque le numéro de l'index dans la vue citation */
+.view-citation .article-metadata {
+  display: none;
+}
+
+/* Ou plus spécifiquement pour le numéro seul si le thème l'isole */
+.view-citation .article-number {
+  display: none;
+}
+
+/* Étendre la section markdown pour qu'elle prenne toute la largeur disponible */
+.wg-markdown {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Supprimer les contraintes de colonnes sur les sections de type landing */
+.home-section .col-12.col-lg-8 {
+  max-width: 100% !important;
+  flex: 0 0 100% !important;
+}
+
+/* Si vous voulez que le titre reste à gauche et le texte s'étale */
+.section-heading {
+  text-align: left !important;
+}
