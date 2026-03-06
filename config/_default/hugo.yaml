@@ -8,7 +8,6 @@ title: ''
 # Website URL
 baseURL: 'https://example.com/'
 
-favicon: 'favicon.ico'
 
 ############################
 ## LANGUAGE

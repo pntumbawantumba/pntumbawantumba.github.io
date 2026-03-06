@@ -9,11 +9,15 @@
   <a href="{{ $item.RelPermalink }}" class="underline font-weight-bold">{{ $item.Title }}</a>.
   
   {{/* 2. LES AUTEURS (seulement s'ils existent) */}}
+  
   {{ if $item.Params.authors }}
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" $item }}
-  </span>
+    {{ range $i, $a := $item.Params.authors }}
+      {{ if $i }}, {{ end }}{{ $a }}
+    {{ end }}
+  </span>.
   {{ end }}
+
   
   {{/* 3. L'ANNÉE (Seulement si elle est différente de 0001) */}}
   {{ if ne $year "0001" }}

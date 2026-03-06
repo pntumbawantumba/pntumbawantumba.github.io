@@ -7,15 +7,13 @@
 }
 
 
-/* Masque le numéro de l'index dans la vue citation */
-.view-citation .article-metadata {
-  display: none;
-}
 
-/* Ou plus spécifiquement pour le numéro seul si le thème l'isole */
+
+/* Ou plus spécifiquement pour le numéro seul si le thème l'isole
 .view-citation .article-number {
   display: none;
 }
+*/
 
 /* Étendre la section markdown pour qu'elle prenne toute la largeur disponible */
 .wg-markdown {
