@@ -5,12 +5,20 @@
     <link>https://example.com/publications/</link>
       <atom:link href="https://example.com/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Publications</title>
       <link>https://example.com/publications/</link>
     </image>
+    
+    <item>
+      <title>Energy-Efficient Function Chaining and Assignment for In-Network Learning</title>
+      <link>https://example.com/publications/energy_efficient_function_chaining_and_assignment_/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publications/energy_efficient_function_chaining_and_assignment_/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Feature Skew Control for In-Network Federated Learning</title>
